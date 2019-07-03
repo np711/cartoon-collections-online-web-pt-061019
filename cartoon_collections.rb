@@ -2,8 +2,7 @@ def roll_call_dwarves#
 ["Doc", "Dopey", "Bashful", "Grumpy"]
 end
 
-def summon_captain_planet(planeteer_calls)
-#=> ["Earth!", "Wind!", "Fire!", "Water!", "Heart!"]
+def summon_captain_planet(planeteer_calls["Earth!", "Wind!", "Fire!", "Water!", "Heart!"]
 end
 
 def long_planeteer_calls# code an argument here
