@@ -18,4 +18,7 @@ def find_the_cheese#
 snacks = ["crackers", "gouda", "thyme"]
 find_the_cheese(snacks)
   cheese_types = ["cheddar", "gouda", "camembert"]
+  
+  soup = ["tomato soup", "cheddar", "oyster crackers", "gouda"]
+find_the_cheese(soup)
 end
